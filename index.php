@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +25,7 @@
                 And not to forget the wow effect. It is so refreshing to know that there are many endless opportunities out there for software developers.
                 Just like painters, we have the ability to completely revolutionize how users perceive your product and their experience when using these products.
                 This has me thinking about Kenyan businesses and their exposure to the rest of the world through websites. Very little of who we are is seen in the websites we produce as we have
-                not quite created anything for our identity yet. Our users are quite receptive to new features but we are yet to take advantage of this quality of our esteemed users.
+                not quite created anything for our identity yet. Our users are quite receptive to new features but we are yet to take advantage of this quality of our niche.
                 On the contrary, but sadly like many other developers in the world, we fail to be creative. We copy what others have done thus there are no footp
             </p>
         </div> 
@@ -44,12 +46,11 @@
             </div>
 
             <div>
-                <a href="write.html">Add an article</a>
+                 <a href="create.php">Add an article</a> 
             </div>
 
         </div>
-
-        
+       
     </main>
 </body>
 </html>

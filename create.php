@@ -9,7 +9,7 @@
 </head>
 <body>
    <div class='new-article'>
-        <form action="POST" class='article-content'>
+        <form name="post" action="connect.php" method="POST" class='article-content' enctype="multipart/form-data">
             <!-- <ul>
                 <li>
                     <label for="title">Title</label>

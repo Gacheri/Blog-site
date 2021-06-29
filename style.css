@@ -2,6 +2,9 @@ body{
     background-color:rgba(0,0,0);
     margin: 0;
 }
+body::-webkit-scrollbar{
+    display: none;
+}
 main{
     min-height:90vh;
     min-width: 90vw;
@@ -23,7 +26,9 @@ P{
     text-align: right;
 }
 #frame{  
-    border: 3px solid rgba(255,255,255);
+    border:1px solid rgba(255,255,255);
+    border-top:none; 
+    border-bottom: none;
     width: 50vw;
     height: 99vh;
     justify-content: center;
@@ -34,7 +39,7 @@ P{
 #frame p{
     /* width: 40vw; */
     text-align: justify;
-    font-size:3vmax;
+    font-size:2.8vmax;
     overflow-y:scroll;
     margin: 1.5em 1em;
 }
